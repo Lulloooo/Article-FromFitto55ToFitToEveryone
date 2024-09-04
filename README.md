@@ -1,5 +1,5 @@
 # FROM FIT TO 55 TO FIT FOR EVERYONE
-**❗️ Read the published version in the [EcoSprinter  2024 Annual Edition📰](https://static1.squarespace.com/static/64abd4444e9a283575b5f266/t/66c6411b61870a2447a241b5/1724268905639/EcoSprinter+-+Annual+Edition+2024)**
+**❗️ Read the published version in the [EcoSprinter  2024 Annual Edition](https://static1.squarespace.com/static/64abd4444e9a283575b5f266/t/66c6411b61870a2447a241b5/1724268905639/EcoSprinter+-+Annual+Edition+2024)** 🗞️
 
 This is an analysis that backed my Article titled "From "Fit to 55" to Fit for Everyone" included in the Ecosprinter 2024 Annual edition.  
 The question my contribution tries to tackle is how much the "average european citizen" should decrease its carbon footprint to stick to "Fit for 55"'s direction.
