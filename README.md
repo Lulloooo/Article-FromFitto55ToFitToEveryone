@@ -2,8 +2,8 @@
 **❗️ Read the published version in the [EcoSprinter  2024 Annual Edition](https://static1.squarespace.com/static/64abd4444e9a283575b5f266/t/66c6411b61870a2447a241b5/1724268905639/EcoSprinter+-+Annual+Edition+2024)** 🗞️
 
 This is an analysis that backed my Article titled "From "Fit to 55" to Fit for Everyone" included in the Ecosprinter 2024 Annual edition.  
-The question my contribution tries to tackle is how much the "average european citizen" should decrease its carbon footprint to stick to the "Fit for 55"'s plan.
-In details, it compares the single individual's average carbon fooprint in the period 1990-2022 to the ideal carbon footpring they should have from 2022-2030 to achieve the 55% emissions reduction.
+The question my contribution tries to tackle is how much the "average european citizen" should reduce its carbon footprint to stick to the "Fit for 55"'s plan.
+In details, it compares the single individual's average carbon footprint in the period 1990-2022 to the ideal carbon footprint they should have from 2022-2030 to achieve the 55% emissions reduction.
 Results are interesting, and give us hope that every single contribution counts.  
 Both Python (especially Jupiter Notebook) and Tableau have been used. All data comes from the Eurostat and the EEA.  
 
